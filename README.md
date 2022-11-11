@@ -12,3 +12,13 @@ I am an aspiring ♾DevOps Engineer who enjoys testing out different tools and m
 
 ![@hm8's GitHub stats](https://github-readme-stats.vercel.app/api?username=hm-8&hide=stars,issues&count_private=true&show_icons=true&theme=transparent) <img src="https://github-readme-streak-stats.herokuapp.com/?user=hm-8&theme=transparent"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hm-8&layout=compact)
 
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hm-8&hide=stars,issues&count_private=true&show_icons=true&theme=transparent&layout=compact" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hm-8&theme=transparent&layout=compact" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hm-8&layout=compact" />
+</a>
+
