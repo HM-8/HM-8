@@ -10,5 +10,5 @@ I am an aspiring ♾DevOps Engineer who enjoys testing out different tools and m
 - 📫 How to reach me: hiwotmedhings@gmail.com
 - ⚡ Fun fact: I can lowkey listen to korean
 
-[![@hm8's GitHub stats](https://github-readme-stats.vercel.app/api?username=hm-8&count_private=true&show_icons=true&theme=transparent) <img src="https://github-readme-streak-stats.herokuapp.com/?user=hm-8&theme=dark"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hm-8&layout=compact)
+[![@hm8's GitHub stats](https://github-readme-stats.vercel.app/api?username=hm-8&count_private=true&show_icons=true&theme=transparent) <img src="https://github-readme-streak-stats.herokuapp.com/?user=hm-8&theme=dark"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hm-8&layout=compact)]
 
